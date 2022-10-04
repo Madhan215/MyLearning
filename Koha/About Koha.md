@@ -1,14 +1,15 @@
-<img align='right' src='https://avatars.githubusercontent.com/u/592086?s=200&v=4' width='40'>
+<img align='right' src='https://avatars.githubusercontent.com/u/592086?s=200&v=4' width='50'>
 
 # KOHA (Software)
 
-Sumber : [Wikipedia](https://en.wikipedia.org/wiki/Koha_(software))
+Sumber : [Wikipedia](<https://en.wikipedia.org/wiki/Koha_(software)>)
 
 Koha merupakan sistem perpustakaan terintegrasi atau dalam bahasa inggris nya disebut _open source integrated library system (ILS)_, digunakan di seluruh dunia oleh perpustakaan umum, sekolah dan khusus. Nama Koha berasal dari istilah Māori yang berarti hadiah atau sumbangan.
 
 ## Fitur
 
 Koha adalah ILS berbasis web, dengan database SQL (MariaDB atau MySQL) sistem back end dengan katalogisasi data yang disimpan di MARC dan dapat diakses melalui Z39.50 atau SRU. Antarmuka pengguna dapat dikonfigurasi dan beradaptasi dan telah diterjemahkan ke dalam banyak bahasa. Koha memiliki sebagian besar fitur yang diharapkan dalam ILS, termasuk:
+
 - Berbagai fasilitas Web 2.0 seperti penandaan, komentar, berbagi sosial, dan umpan RSS
 - Fasilitas katalog serikat
 - Pencarian yang dapat disesuaikan
@@ -24,7 +25,7 @@ Koha dibuat pada tahun 1999 oleh Katipo Communications untuk Horowhenua Library 
 
 Dari tahun 2000, perusahaan mulai memberikan dukungan komersial untuk Koha, membangun lebih dari 50 hari.
 
-Pada tahun 2001, Paul Poulain (dari Marseille, Prancis) mulai menambahkan banyak fitur baru ke dalam Koha, yang paling signifikan adalah mendukung berbagai bahasa. Pada 2010, Koha telah diterjemahkan dari bahasa Inggris aslinya ke dalam bahasa Prancis, Cina, Arab, dan beberapa bahasa lainnya. Dukungan untuk katalogisasi dan standar pencarian MARC dan Z39.50 ditambahkan pada tahun 2002 dan kemudian disponsori oleh  Athens County Public Libraries. Poulain mendirikan BibLibre pada tahun 2007.
+Pada tahun 2001, Paul Poulain (dari Marseille, Prancis) mulai menambahkan banyak fitur baru ke dalam Koha, yang paling signifikan adalah mendukung berbagai bahasa. Pada 2010, Koha telah diterjemahkan dari bahasa Inggris aslinya ke dalam bahasa Prancis, Cina, Arab, dan beberapa bahasa lainnya. Dukungan untuk katalogisasi dan standar pencarian MARC dan Z39.50 ditambahkan pada tahun 2002 dan kemudian disponsori oleh Athens County Public Libraries. Poulain mendirikan BibLibre pada tahun 2007.
 
 Pada tahun 2005, sebuah perusahaan yang berbasis di Ohio, Metavore, Inc., berdagang sebagai LibLime, didirikan untuk mendukung Koha dan menambahkan banyak fitur baru, termasuk dukungan untuk Zebra yang disponsori oleh Sistem Perpustakaan Federasi Crawford County. Dukungan Zebra meningkatkan kecepatan pencarian serta meningkatkan skalabilitas untuk mendukung puluhan juta catatan bibliografi.
 
