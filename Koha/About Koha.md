@@ -2,8 +2,9 @@
 
 # KOHA (Software)
 
+<img align='center' width='300' src="img/koha.png">
 <center>
-i<img align='center' width='300' src="img/koha.png">
+i
 </center>
 
 Sumber : [Wikipedia](<https://en.wikipedia.org/wiki/Koha_(software)>)
