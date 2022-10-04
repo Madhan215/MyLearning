@@ -3,7 +3,7 @@
 # KOHA (Software)
 
 <center>
-<img width='300' src="img/koha.png">
+<img align='center' width='300' src="img/koha.png">
 </center>
 
 Sumber : [Wikipedia](<https://en.wikipedia.org/wiki/Koha_(software)>)
