@@ -1,4 +1,7 @@
+<img align='right' src='https://avatars.githubusercontent.com/u/592086?s=200&v=4' width='40'>
+
 # KOHA (Software)
+
 Sumber : [Wikipedia](https://en.wikipedia.org/wiki/Koha_(software))
 
 Koha merupakan sistem perpustakaan terintegrasi atau dalam bahasa inggris nya disebut _open source integrated library system (ILS)_, digunakan di seluruh dunia oleh perpustakaan umum, sekolah dan khusus. Nama Koha berasal dari istilah Māori yang berarti hadiah atau sumbangan.
