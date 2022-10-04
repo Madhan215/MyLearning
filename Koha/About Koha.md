@@ -1,9 +1,9 @@
-<img align='right' src='https://avatars.githubusercontent.com/u/592086?s=200&v=4' width='50'>
+<img align='left' src='https://avatars.githubusercontent.com/u/592086?s=200&v=4' width='50'>
 
 # KOHA (Software)
 
 <p align="center">
-<img align='center' width='300' src="img/koha.png">
+    <img align='center' width='300' src="img/koha.png">
 </p>
 
 Sumber : [Wikipedia](<https://en.wikipedia.org/wiki/Koha_(software)>)
