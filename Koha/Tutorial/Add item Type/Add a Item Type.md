@@ -5,7 +5,7 @@ Date : 05/10/2022
 Menambahkan item type Sebagai alternativ peng-Kategorian pada Search Engine OPAC
 
 Masuk ke Menu <br>
-<img src="img/koha_admistration.PNG" width="200">
+<img src="img/koha_administration.PNG" width="200">
 
 Pilih **Item Types** pada Menu Basic Parameters : <br>
 <img src="img/basic_parameter.png">
