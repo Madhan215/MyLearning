@@ -1,6 +1,6 @@
 Kembali : [Upload a File](UploadaFile.md)
 
-### Berikut Penjelasan isian yang wajib diisi pada Cataloging :
+### Berikut Penjelasan isian yang harus diisi pada Cataloging :
 
 ## - Section 0
 
@@ -11,15 +11,29 @@ Kembali : [Upload a File](UploadaFile.md)
 
 - Note : nomor 1-4 akan otomatis terisi saat kita klik pada kolom
 
-5. [004] Cataloging Source <br> [c] Transcribing Agency <br> Kode MARC atau nama organisasi yang menyalin catatan ke dalam bentuk yang dapat dibaca mesin. (Inisial atau nama admin yang meng-upload, Umumnya field ini diisi tulisan "admin")
+5. [004] Cataloging Source <br> [c] Transcribing Agency <br> 
+    - Kode MARC atau nama organisasi yang menyalin catatan ke dalam bentuk yang dapat dibaca mesin. (Inisial atau nama admin yang meng-upload, Umumnya field ini diisi tulisan "admin")
 
 ## - Section 1
 
-1. [100] Main Entry--Personal Name <br> [a] Personal name <br> Diisi dengan nama Penulis, Jika lebih dari satu maka pisah menggunakan tanda koma (,)
+1. [100] Main Entry--Personal Name <br> [a] Personal name <br> 
+    - Diisi dengan nama Penulis, Jika lebih dari satu maka pisah menggunakan tanda koma (,)
 
 ## - Section 2
 
+1. [245] Title Statement <br> [a] Title <br> 
+    - Diisi Judul Buku
+2. [250] Edition Statement <br> [a] Edition Statement <br> 
+    - Diisi Edisi buku (Tidak Wajib)
+3. [260] Publication, Distribution, etc. <br> 
+[a] Place of publication,  distribution, etc. <br> 
+    - Tempat publikasi, distribusi, dll.
 
+    [b] Name of publication, distribution, etc.
+    - Nama dari pempublikasi, pendistribusi, dll.
+    
+    [c] Date of publication, distribution, etc.
+    - Tanggal publikasi, distribusi, dll.
 
 ## - Section 3
 

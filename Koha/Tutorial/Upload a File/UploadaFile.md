@@ -4,4 +4,4 @@ Pertama anda perlu login menggunakan akun yang memiliki akses cataloging dan adm
 
 1. Masuk menu `Cataloging`
 2. Pilih `+ New record`
-3. Isi seluruh bagian yang diperlukan, Lihat Penjelasan [Isian wajib pada cataloging](RequiredField.md)
+3. Isi seluruh bagian yang diperlukan, Lihat Penjelasan [Isian pada cataloging](RequiredField.md)
