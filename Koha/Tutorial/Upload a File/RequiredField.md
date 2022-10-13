@@ -47,6 +47,10 @@ Kembali : [Upload a File](UploadaFile.md)
 
 ## - Section 8
 
+1. [356] Electronic Location and Address <br> 
+[u] Uniform Resource Identifier <br> 
+    - Tempat generate link  dari file yang diupload
+
 ## - Section 9
 
 
