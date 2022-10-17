@@ -16,3 +16,13 @@
 7. Digital Logic And Computer Design By M. Morris Mano ( PDFDrive )
 8. PYTHON  PYTHON'S COMPANION, A STEP BY STEP GUIDE FOR BEGINNERS TO START CODING TODAY! ( PDFDrive )
 9. Theory of Automata, Formal Languages and Computation ( PDFDrive )
+
+### 17 s/d 21 Oktober
+
+#### 3. Digital Skills
+10. DCMSDigitalSkillsReportJan2016
+11. Digital Skills Insights 2020
+
+#### 4. Educational
+12. Developing Algebraic Thinking in Earlier Grades
+13. Educational Psychology for Learning and Teaching ( PDFDrive )
