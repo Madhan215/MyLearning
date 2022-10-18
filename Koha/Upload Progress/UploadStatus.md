@@ -26,3 +26,38 @@
 #### 4. Educational
 12. Developing Algebraic Thinking in Earlier Grades
 13. Educational Psychology for Learning and Teaching ( PDFDrive )
+14. EgodawatteArachchigeDon_Gunawardena_201106_PhD_thesis
+15. Focus-on-Inquiry-teacher-guide
+16. Measurement and Assessment in Teaching (Tenth Edition)   ( PDFDrive )
+17. Technology in Education. Transforming Educational Practices with Technology_ First International Conference, ICTE 2014, Hong Kong, China, July 2-4, 2014. Revised Selected Papers ( PDFDrive )
+18. The-New-taxonomy-of-Educational-Objectives
+
+#### 5. Encyclopedia
+
+19. Encyclopedia of Geology, Five Volume Set, Volume 1-5 (Encyclopedia of Geology Series) ( PDFDrive )
+
+#### 6. English
+
+#### 1. Building-Vocabulary-Skills
+
+20. Building Vocabulary Skills and Strategies Level 4 (z-lib.org)
+
+#### 2. Creative-Writing
+
+21. 21 days of effective communication_ everyday habits and exercises to improve your communication skills and social intelligence ( PDFDrive )
+22. Aptitude, Personality and Motivation Tests_ Analyse Your Talents and Personality and Plan Your Career (Testing Series) ( PDFDrive )
+23. Creative Journal Writing_ The Art and Heart of Reflection ( PDFDrive )
+24. Creative Writing (College Writing)
+25. Creative Writing_ How to unlock your imagination, develop your writing skills - and get published ( PDFDrive )
+26. Essential Study Skills   ( PDFDrive )
+27. Improve Your Communication Skills_ Present with Confidence; Write with Style; Learn Skills of Persuasion ( PDFDrive )
+28. Journalism & Mass Communication ( PDFDrive )
+29. Journalism_ A Very Short Introduction  Writing & Journalism ( PDFDrive )
+30. Professional Feature Writing ( PDFDrive )
+31. Studying and Learning at University_ Vital Skills for Success in Your Degree (Sage Study Skills Series) ( PDFDrive )
+32. The Elements of Journalism_ What Newspeople Should Know and the Public Should Expect, Completely Updated and Revised ( PDFDrive )
+33. The Handbook of Journalism Studies ( PDFDrive )
+34. The Study Skills Handbook ( PDFDrive )
+35. Write Yourself_ Creative Writing and Personal Development (Writing for Therapy Or Personal Development)   ( PDFDrive )
+36. Writing Routes_ A Resource Handbook of Therapeutic Writing   ( PDFDrive )
+37. Writing Science_ How to Write Papers That Get Cited and Proposals That Get Funded ( PDFDrive )
