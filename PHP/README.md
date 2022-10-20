@@ -1,0 +1,3 @@
+# My Learning PHP
+
+Saya memulai belajar PHP pada tanggal 21 Oktober 2022, Tujuan pertama saya adalaha untuk mengambangkan skill Pemograman Web saya, Saya telah mempelajari HTML, CSS, dan JavaScript pada Mata Kuliah Pemrograman Web 1 di Semester 2, namun saya merasa kurang karena belum mempelajari PHP dan Database nya, oleh karena itu saya bertekad untuk mempelajari PHP dan membuat website yang bermanfaat untuk Organisasi saya.
