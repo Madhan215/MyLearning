@@ -75,3 +75,16 @@
 45. Reading Comprehension Skills & Strategies Level 6 ( PDFDrive )
 46. Reading Comprehension Skills & Strategies Level 7 ( PDFDrive )
 47. Reading Comprehension Skills & Strategies Level 8 ( PDFDrive )
+
+#### e. Reading-Comprehension-Skills
+
+48. (Betty Schrampfer Azar, 1996, 2e) Basic English Grammar ( PDFDrive )
+49. (Betty Schrampfer Azar, 1999, 2e) Fundamentals of English Grammar Workbook ( PDFDrive )
+50. (Betty Schrampfer Azar, 2002, 3e) Understanding and Using English Grammar ( PDFDrive )
+51. Creative Writing_ How to unlock your imagination, develop your writing skills - and get published ( PDFDrive )
+52. English Through Pictures, Book 1 and A First Workbook of English ( PDFDrive )
+53. English Through Pictures, Book 2 and A Second Workbook of English ( PDFDrive )
+54. English Through Pictures, Book 3 (Updated Edition) ( PDFDrive )
+55. Just Enough English Grammar Illustrated (Gabrielle Stobbe) (z-lib.org)
+56. Report writing skills training course. How to write a report and executive summary, and plan, design and present your report. An easy format for ... of exercises and free downloadable workbook. ( PDFDrive )
+57. Writing Scientific English A Workbook (Tim Skern) (z-lib.org)
