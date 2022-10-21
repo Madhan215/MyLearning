@@ -88,3 +88,12 @@
 55. Just Enough English Grammar Illustrated (Gabrielle Stobbe) (z-lib.org)
 56. Report writing skills training course. How to write a report and executive summary, and plan, design and present your report. An easy format for ... of exercises and free downloadable workbook. ( PDFDrive )
 57. Writing Scientific English A Workbook (Tim Skern) (z-lib.org)
+
+#### 7. Face Recognition
+
+58. (Jain,2011) Handbook of face recognition (Vol 1) (2)
+59. A Survey of 2D Face Recognition Techniques
+60. Face Detection and Recognition_ Theory and Practice ( PDFDrive )
+61. Face Recognition Technique_ A Literature Survey on Face Recognition and Insight on Machine Recognition Using ( PDFDrive )
+62. Handbook of Face Recognition, 2e ( PDFDrive )
+63. Stan_Z._Li__Anil_K._Jain_-_Handbook_Of_Face_Recognition-Springer_200520191007-15406-11983xh
