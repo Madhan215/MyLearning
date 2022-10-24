@@ -1,6 +1,7 @@
-## Upload e - book by mdn
+## Muhammad Ramadhani
+## Laporan Upload E-book Koha
 
-### -- s/d 14 Oktober
+### 10 s/d 14 Oktober
 
 #### 1. Computer Networking
 
