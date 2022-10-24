@@ -1,6 +1,6 @@
 ## Upload e - book by mdn
 
-### -- s/d 14 Oktober
+# -- s/d 14 Oktober
 
 #### 1. Computer Networking
 
@@ -17,7 +17,7 @@
 8. PYTHON  PYTHON'S COMPANION, A STEP BY STEP GUIDE FOR BEGINNERS TO START CODING TODAY! ( PDFDrive )
 9. Theory of Automata, Formal Languages and Computation ( PDFDrive )
 
-### 17 s/d 21 Oktober
+# 17 s/d 21 Oktober
 
 #### 3. Digital Skills
 10. DCMSDigitalSkillsReportJan2016
@@ -96,4 +96,11 @@
 60. Face Detection and Recognition_ Theory and Practice ( PDFDrive )
 61. Face Recognition Technique_ A Literature Survey on Face Recognition and Insight on Machine Recognition Using ( PDFDrive )
 62. Handbook of Face Recognition, 2e ( PDFDrive )
-63. Stan_Z._Li__Anil_K._Jain_-_Handbook_Of_Face_Recognition-Springer_200520191007-15406-11983xh
+
+#### 8. Git and GitHub
+
+63. (Beer, 2018) Introducing GitHub
+64. (Chacon, 2014) Pro Git ( PDFDrive )
+65. (Loeliger, 2012) Version Control with Git ( PDFDrive )
+66. (Spinellis, 2012) Git (artikel)
+67. (Westby, 2015) Git for Teams ( PDFDrive )
