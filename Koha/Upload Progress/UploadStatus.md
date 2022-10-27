@@ -104,3 +104,21 @@
 65. (Loeliger, 2012) Version Control with Git ( PDFDrive )
 66. (Spinellis, 2012) Git (artikel)
 67. (Westby, 2015) Git for Teams ( PDFDrive )
+
+# 24 s/d 28 Oktober
+
+#### 9. JSON
+
+68. Beginning JSON ( PDFDrive )
+69. Introduction to JavaScript Object Notation_ A To-the-Point Guide to JSON ( PDFDrive )
+70. JSON at Work ( PDFDrive )
+
+#### 10. Learning Sciences
+
+71. (Pauk,2011,10e) How to study in college
+72. 10 Days to Faster Reading_ Jump-Start Your Reading Skills with Speed Reading ( PDFDrive )
+73. cornell_note_taking_system
+74. How People Learn  Designing Education and Training that Works to Improve Performance (Nick Shackleton-Jones) (z-lib.org)
+75. how people learn ii
+76. How Students Learn History, Mathematics, and Science in the Classroom (Committee on How People Learn etc.) (z-lib.org)
+77. How to Analyze People - Dark Secrets to Analyze and Influence Anyone Using Body Language ( PDFDrive )
