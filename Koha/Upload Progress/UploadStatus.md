@@ -123,3 +123,20 @@
 75. how people learn ii
 76. How Students Learn History, Mathematics, and Science in the Classroom (Committee on How People Learn etc.) (z-lib.org)
 77. How to Analyze People - Dark Secrets to Analyze and Influence Anyone Using Body Language ( PDFDrive )
+78. How to Analyze People_ Proven Techniques to Analyze People on Sight and Read Anyone Like a Book; Simple Tricks to Understand the Human Mind and Master Human Psychology ( PDFDrive )
+79. How to Become a Straight-A Student_ The Unconventional Strategies Real College Students Use to Score High While Studying Less   ( PDFDrive )
+80. How to Study 7th Edition ( PDFDrive )
+81. NotesOnNotes
+82. On Course, Study Skills_ Strategies for Creating Success in College and in Life, Study Skills Plus Edition ( PDFDrive )
+83. Why A Students Work for C Students and Why B Students Work for the Government Rich Dad's Guide to Financial Education for Parents ( PDFDrive )
+
+#### 11. Masami-Isoda
+
+84. Developing_Computational_Thinking_Teaching_Strateg
+85. IsodaEstrellaZakaryanBaldinOlfosAraya10-1108_IJLLS-05-2021-0045
+86. Teaching Multiplication with Lesson Study
+87. Teaching_the_Multiplication_Table_and_Its_Properti
+88. The_Teaching_of_Multidigit_Multiplication_in_the_J
+
+#### 12. Math Computation Skills
+
