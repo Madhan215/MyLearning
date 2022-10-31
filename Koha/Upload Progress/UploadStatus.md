@@ -138,5 +138,37 @@
 87. Teaching_the_Multiplication_Table_and_Its_Properti
 88. The_Teaching_of_Multidigit_Multiplication_in_the_J
 
+# 30 Oktober s/d 4 November
+
 #### 12. Math Computation Skills
 
+89. Math Computation Skills  Strategies Level 3 (z-lib.org)
+90. Math Computation Skills  Strategies Level 4 (z-lib.org)
+91. Math Computation Skills  Strategies Level 5 (z-lib.org)
+92. Math Computation Skills  Strategies Level 7 (z-lib.org)
+
+#### 13. Math Connects
+
+93. Use Patterns and Algebraic Thinking
+94. Numbers Throuhg Ten Thousands
+95. Add and Subtract to Solve Problems
+96. Model Multiplication and Division Problems
+97. Solve Multiplication and Division Problems
+98. Solve More Multiplication and Division Problems
+99. Use Patterns and Algebraic Thinking
+
+#### 14. Mathematics / Abstract Mathematics
+
+100. Sets, Functions, and Logic_ An Introduction to Abstract Mathematics, Third Edition (Chapman Hall CRC Mathematics Series) ( PDFDrive )
+
+#### 15. Mathematics
+
+101. (Mason, 2010, 2e) Thinking Mathematically
+102. (Van de Walle, 2013, 8e) Elementary and Middle School Mathematics Teaching Developmentally
+103. Use Patterns and Algebraic Thinking
+104. 0309069955_Adding It Up Helping Children Learn Mathematics
+105. A first course in mathematical logic and set theory ( PDFDrive )
+106. Advanced engineering mathematics ( PDFDrive )
+107. Algebra 1 Common Core Student Edition, Grade 8-9 ( PDFDrive )
+108. Algebra Teacher’s Activities Kit, Grades 6-12 ( PDFDrive )
+109. An Introduction to Set Theory and Topology
