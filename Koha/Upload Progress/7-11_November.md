@@ -1,0 +1,17 @@
+# 7 November s/d 11 November
+
+1. Basic Mathematics for College Students ( PDFDrive )
+2. Complete Advanced Level Mathematics_ Pure Mathematics ( PDFDrive )
+3. Complete Probability & Statistics 1 for Cambridge International AS & A Level ( PDFDrive )
+4. Complete Probability & Statistics 2 for Cambridge International AS & A Level ( PDFDrive )
+5. Complete Pure Mathematics 1 for Cambridge International AS & A Level ( PDFDrive )
+6. Complete Pure Mathematics 2 & 3 for Cambridge International AS & A Level ( PDFDrive )
+7. Deep Thinking_ What Mathematics Can Teach Us About the Mind ( PDFDrive )
+8. Educating Teachers of Science, Mathematics, and Technology  ( PDFDrive )
+9. Fundamentals of Mathematics (9th Edition)   ( PDFDrive )
+10. Fundamentals of Mathematics, Vol. 1_ Foundations of Mathematics_ The Real Number System and Algebra ( PDFDrive )
+11. Higher Engineering Mathematics ( PDFDrive )
+12. Higher Mathematics for Physics and Engineering_ Mathematical Methods for Contemporary Physics ( PDFDrive )
+13. How Students Learn_ History, Mathematics, and Science in the Classroom   ( PDFDrive )
+14. Lectures in Logic and Set Theory. Volume 1_ Mathematical Logic ( PDFDrive )
+15. Lectures in Logic and Set Theory. Volume 2_ Set Theory ( PDFDrive )
