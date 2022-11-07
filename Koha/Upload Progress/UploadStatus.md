@@ -172,3 +172,11 @@
 107. Algebra 1 Common Core Student Edition, Grade 8-9 ( PDFDrive )
 108. Algebra Teacher’s Activities Kit, Grades 6-12 ( PDFDrive )
 109. An Introduction to Set Theory and Topology
+110. Basic Engineering Mathematics ( PDFDrive )
+
+# 7 November s/d 11 November
+
+111. Basic Mathematics for College Students ( PDFDrive )
+112. Complete Advanced Level Mathematics_ Pure Mathematics ( PDFDrive )
+113. Complete Probability & Statistics 1 for Cambridge International AS & A Level ( PDFDrive )
+114. Complete Probability & Statistics 2 for Cambridge International AS & A Level ( PDFDrive )
