@@ -15,3 +15,13 @@
 13. How Students Learn_ History, Mathematics, and Science in the Classroom   ( PDFDrive )
 14. Lectures in Logic and Set Theory. Volume 1_ Mathematical Logic ( PDFDrive )
 15. Lectures in Logic and Set Theory. Volume 2_ Set Theory ( PDFDrive )
+16. MATEMATIKA-BG-KLS X
+17. Matematika-BG-KLS-VIII
+18. Matematika-BG-KLS-VII-Licensi
+19. Matematika-BG-KLS-XI
+20. Math Starters_ 5- to 10-Minute Activities Aligned with the Common Core Math Standards, Grades 6-12 ( PDFDrive )
+21. Mathematical Foundation of Computer Science ( PDFDrive )
+22. Mathematical Mindsets ( PDFDrive )
+23. Mathematics (Class 10) ( PDFDrive )
+24. Mathematics Class 9-10 ( PDFDrive )
+25. middle-school-mathematics
