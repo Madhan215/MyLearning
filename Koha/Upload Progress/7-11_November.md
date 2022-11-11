@@ -1,3 +1,5 @@
+Muhammad Ramadhani (2110131210003)
+
 # 7 November s/d 11 November
 
 1. Basic Mathematics for College Students ( PDFDrive )
@@ -25,3 +27,29 @@
 23. Mathematics (Class 10) ( PDFDrive )
 24. Mathematics Class 9-10 ( PDFDrive )
 25. middle-school-mathematics
+26. NCTM Principles Standards Position Paper
+27. NCTM’s Principles and Standards for School Mathematics: Implications for Administrators
+28. principles_standards
+29. Set Theory_ A First Course ( PDFDrive )
+30. Set_Theory_and_Logic
+31. Teaching the Common Core Math Standards with Hands-On Activities, Grades 3-5 ( PDFDrive )
+32. Teaching the Common Core Math Standards with Hands-On Activities, Grades 6-8 ( PDFDrive )
+33. Teaching the Common Core Math Standards with Hands-On Activities, Grades 9-12 ( PDFDrive )
+
+#### 16. Social Media
+
+34. (Bruns,2019) Social media platforms and their fight against critical scholarly research
+35. (DeNardis,2015) Internet governance by social media platforms
+36. (Dijck,2018) Social media platforms and education
+37. (Edosomwan,2011) The History of Social Media and its Impact on Business
+38. (Hutto,2015) Social media gerontology Understanding social media usage among older adults
+39. (Trifiro,2019) Social Media Usage Patterns
+
+#### 17. STEM Education
+
+40. A Companion to Interdisciplinary STEM Project-Based Learning_ For Educators by Educators (Second Edition) ( PDFDrive )
+41. A RESEARCH ON STEM EDUCATION THEORY AND PRACTICES METHOD IN JAPAN AND ... ( PDFDrive )
+42. Cognition, Metacognition, and Culture in STEM Education_ Learning, Teaching and Assessment ( PDFDrive )
+43. Emerging Technologies for STEAM Education_ Full STEAM Ahead ( PDFDrive )
+44. Engaging Young Engineers_ Teaching Problem Solving Skills Through STEM ( PDFDrive )
+45. Graduate STEM Education for the 21st Century ( PDFDrive )
