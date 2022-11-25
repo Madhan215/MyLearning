@@ -180,3 +180,54 @@
 112. Complete Advanced Level Mathematics_ Pure Mathematics ( PDFDrive )
 113. Complete Probability & Statistics 1 for Cambridge International AS & A Level ( PDFDrive )
 114. Complete Probability & Statistics 2 for Cambridge International AS & A Level ( PDFDrive )
+115. Basic Mathematics for College Students ( PDFDrive )
+116. Complete Advanced Level Mathematics_ Pure Mathematics ( PDFDrive )
+117. Complete Probability & Statistics 1 for Cambridge International AS & A Level ( PDFDrive )
+118. Complete Probability & Statistics 2 for Cambridge International AS & A Level ( PDFDrive )
+119. Complete Pure Mathematics 1 for Cambridge International AS & A Level ( PDFDrive )
+120. Complete Pure Mathematics 2 & 3 for Cambridge International AS & A Level ( PDFDrive )
+121. Deep Thinking_ What Mathematics Can Teach Us About the Mind ( PDFDrive )
+122. Educating Teachers of Science, Mathematics, and Technology  ( PDFDrive )
+123. Fundamentals of Mathematics (9th Edition)   ( PDFDrive )
+124. Fundamentals of Mathematics, Vol. 1_ Foundations of Mathematics_ The Real Number System and Algebra ( PDFDrive )
+125. Higher Engineering Mathematics ( PDFDrive )
+126. Higher Mathematics for Physics and Engineering_ Mathematical Methods for Contemporary Physics ( PDFDrive )
+127. How Students Learn_ History, Mathematics, and Science in the Classroom   ( PDFDrive )
+128. Lectures in Logic and Set Theory. Volume 1_ Mathematical Logic ( PDFDrive )
+129. Lectures in Logic and Set Theory. Volume 2_ Set Theory ( PDFDrive )
+130. MATEMATIKA-BG-KLS X
+131. Matematika-BG-KLS-VIII
+132. Matematika-BG-KLS-VII-Licensi
+133. Matematika-BG-KLS-XI
+134. Math Starters_ 5- to 10-Minute Activities Aligned with the Common Core Math Standards, Grades 6-12 ( PDFDrive )
+135. Mathematical Foundation of Computer Science ( PDFDrive )
+136. Mathematical Mindsets ( PDFDrive )
+137. Mathematics (Class 10) ( PDFDrive )
+138. Mathematics Class 9-10 ( PDFDrive )
+139. middle-school-mathematics
+140. NCTM Principles Standards Position Paper
+141. NCTM’s Principles and Standards for School Mathematics: Implications for Administrators
+142. principles_standards
+143. Set Theory_ A First Course ( PDFDrive )
+144. Set_Theory_and_Logic
+145. Teaching the Common Core Math Standards with Hands-On Activities, Grades 3-5 ( PDFDrive )
+146. Teaching the Common Core Math Standards with Hands-On Activities, Grades 6-8 ( PDFDrive )
+147. Teaching the Common Core Math Standards with Hands-On Activities, Grades 9-12 ( PDFDrive )
+
+#### 16. Social Media
+
+148.  (Bruns,2019) Social media platforms and their fight against critical scholarly research
+149. (DeNardis,2015) Internet governance by social media platforms
+150. (Dijck,2018) Social media platforms and education
+151. (Edosomwan,2011) The History of Social Media and its Impact on Business
+152. (Hutto,2015) Social media gerontology Understanding social media usage among older adults
+153. (Trifiro,2019) Social Media Usage Patterns
+
+#### 17. STEM Education
+
+154.  A Companion to Interdisciplinary STEM Project-Based Learning_ For Educators by Educators (Second Edition) ( PDFDrive )
+155. A RESEARCH ON STEM EDUCATION THEORY AND PRACTICES METHOD IN JAPAN AND ... ( PDFDrive )
+156. Cognition, Metacognition, and Culture in STEM Education_ Learning, Teaching and Assessment ( PDFDrive )
+157. Emerging Technologies for STEAM Education_ Full STEAM Ahead ( PDFDrive )
+158. Engaging Young Engineers_ Teaching Problem Solving Skills Through STEM ( PDFDrive )
+159. Graduate STEM Education for the 21st Century ( PDFDrive )
